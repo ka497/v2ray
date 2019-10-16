@@ -1,7 +1,7 @@
 			{
-                "type": "field",
-                "domain": [
-                    "domain:qidian.com"
-                ],
-                "outboundTag": "blocked"
- }
+				"type": "field",
+				"domain": [
+					"domain:qidian.com",
+				],
+				"outboundTag": "blocked"
+			}
